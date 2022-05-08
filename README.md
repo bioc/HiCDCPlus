@@ -9,7 +9,7 @@ Merve Sahin
   provides methods to determine significant and differential chromatin interactions by use of a
   negative binomial generalized linear model, as well as implementations for TopDom to call topologically associating domains (TADs), and Juicer eigenvector to find the A/B compartments. This vignette explains the use of
   the package and demonstrates typical workflows on HiC and HiChIP data.
-  HiCDCPlus package version: 1.5.1
+  HiCDCPlus package version: 1.5.0
 output:
   html_document:
     keep_md: true
