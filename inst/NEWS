@@ -1,3 +1,5 @@
+Changes in version 1.5.2 (2022-06-06)
++ Fixed bug that prevented juicer to setup
 Changes in version 1.5.1 (2022-05-08)
 + Updated references to juicer
 Changes in version 1.3.1 (2022-01-23)
